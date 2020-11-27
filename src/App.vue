@@ -10,7 +10,8 @@
             <!-- content -->
             <div class="content">
                 <svg class="name" viewBox="0 0 630 180">
-                    <text x="50%" y="50%" dy=".35em">Cong Min</text>
+                    <!-- <text x="50%" y="50%" dy=".35em">Cong Min</text> -->
+                    <text x="50%" y="50%" dy=".35em">Dong Zhan Li</text>
                 </svg>
             </div>
             <!-- 更多 -->
@@ -28,17 +29,17 @@
             <div class="content">
                 <!-- name -->
                 <svg class="name" viewBox="0 0 630 180">
-                    <text x="50%" y="50%" dy=".35em">Cong Min</text>
+                    <text x="50%" y="50%" dy=".35em">Dong Zhan Li</text>
                 </svg>
                 <!-- motto -->
-                <div class="motto">
+                <!-- <div class="motto">
                     <a href="//i.congm.in" title="Blog" target="_blank">Think</a>
                     &
                     <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=CGVhZmtnZm9Ia2dmb2UmYWY" title="Github" target="_blank">Different</a>,
                     <a href="//resume.congm.in" title="Github" target="_blank">Design</a>
                     &
                     <a href="https://github.com/mcc108" title="Github" target="_blank">Develop</a>.
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -52,6 +53,7 @@ export default {
 </script>
 
 <style lang="less">
+
 @bing-bg: url('https://congm.in/bing.php'); // bing 壁纸
 @body-bg: #fafafa;
 
@@ -113,22 +115,23 @@ body {
     transform: translate3d(-50%, -110px, 0) perspective(0); // perspective fixbug: clip fixed
     width: 100%;
     box-sizing: border-box;
-    padding: 0 30px 30px;
+    padding: 0 10px 10px;
     text-align: center;
     // 姓名
     svg.name {
         display: block;
         width: 100%;
-        max-width: 630px;
+        max-width: 750px;
         margin: 0 auto;
         text {
-            font-size: 140px;
+            font-size: 100px;
             font-family: Ubuntu;
             fill: #fff;
             stroke: #fff;
             stroke-linejoin: round;
             stroke-width: 5px;
             text-anchor: middle;
+
         }
     }
     // 链接
