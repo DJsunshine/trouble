@@ -2,9 +2,10 @@
 
 resume
 
-来源于[@ Cong Min](https://github.com/mcc108/congm.in)
+网站模板来源于[@ Cong Min](https://github.com/mcc108/congm.in)
 
 #### Build Setup
+
 ``` bash
 
 # 安装依赖

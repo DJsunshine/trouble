@@ -32,14 +32,15 @@
                     <text x="50%" y="50%" dy=".35em">Dong Zhan Li</text>
                 </svg>
                 <!-- motto -->
-                <!-- <div class="motto">
-                    <a href="//i.congm.in" title="Blog" target="_blank">Think</a>
+                <div class="motto">
+                    <!-- 使用的是原作者的链接 背景图片 -->
+                    <a href="//i.congm.in" title="Pic" target="_blank">Wallpaper</a>
                     &
-                    <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=CGVhZmtnZm9Ia2dmb2UmYWY" title="Github" target="_blank">Different</a>,
-                    <a href="//resume.congm.in" title="Github" target="_blank">Design</a>
+                    <!-- <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=CGVhZmtnZm9Ia2dmb2UmYWY" title="Github" target="_blank">Different</a>, -->
+                    <a href="//website.trouble.wiki" title="website" target="_blank">WebSite</a>
                     &
-                    <a href="https://github.com/mcc108" title="Github" target="_blank">Develop</a>.
-                </div> -->
+                    <a href="https://github.com/djsunshine" title="Github" target="_blank">Github</a>.
+                </div>
             </div>
         </div>
     </section>
