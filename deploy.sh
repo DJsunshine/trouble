@@ -9,7 +9,7 @@ git commit -m 'update'
 git push
 
 # 生成静态文件
-npm run docs:build
+npm run build
 
 # 进入生成的文件夹
 cd docs
