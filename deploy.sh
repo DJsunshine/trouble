@@ -3,6 +3,7 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+# 先提交到github
 git add .
 git commit -m 'update'
 git push
